@@ -5,4 +5,4 @@ This repository contains several little greasemonkey scripts i've found to be ha
 Index:
 
 
-- Press 'Expand all' on a gitlab merge request, if the button is visible
+- **gitlab-expand-all.js:** Press 'Expand all' on a gitlab merge request, if the button is visible
